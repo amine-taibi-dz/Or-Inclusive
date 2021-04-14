@@ -6,10 +6,12 @@ The structure must contain Left, Right and projections with use of Functional In
 <br/>
 
 A et B | A et ou B 
-
+<br/>
 A et B
 ou 
+<br/>
 A et ou B 
 A and B (Both present )
+<br/>
 or 
 (A present and B Option)
