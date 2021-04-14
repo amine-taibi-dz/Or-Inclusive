@@ -1,2 +1,3 @@
 # Or-Inclusive
 Request from some one to create a simple structure like Either in Vavr
+The structure must contain Left, Right and projections with use of Functional Interface of java-8 and Generics ...
